@@ -1,0 +1,14 @@
+{
+  "FORCE-1234ABC": {
+    "ip_address": "45.131.108.79",
+    "cfx_license": "cfxk_4NATpN62MRaRkJnZdqGu_4acdXD",
+    "blacklisted": false,
+    "reason": null
+  },
+  "FORCE-5678XYZ": {
+    "ip_address": "192.168.0.2",
+    "cfx_license": "0987654321",
+    "blacklisted": true,
+    "reason": "Unauthorized use"
+  }
+}
